@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivam Pal
 - 👀 I’m interested in Web-Devlopment
 - 🌱 I’m currently learning Bsc Computer Science Honors
-- 📫 How to reach me pal900929@gmail.com
+- 📫 How to reach me nandlalpal420@gmail.com
 - 😄 Pronouns: Nandu
 
 <!---
